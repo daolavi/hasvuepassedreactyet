@@ -9,8 +9,8 @@
 To run this locally, clone the repo and use Yarn or NPM to install the dependencies. (You’ll also need Node.js installed)
 
 ```bash
-git clone https://github.com/stursby/hasvuepassedreactyet.git
-cd hasvuepassedreactyet
+git clone https://github.com/daolavi/vue-react.git
+cd vue-react
 yarn
 ```
 
